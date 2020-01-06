@@ -5,5 +5,6 @@ public class test {
         System.out.println("aaaa");
         System.out.println("aaaa");
         System.out.println("aaaa");
+        System.out.println("WeChat");
     }
 }
